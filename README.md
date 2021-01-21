@@ -1,7 +1,7 @@
-Experimental environment: win10 x64    
-Software official website:https://www.jiangmin.com/PC/207.html
-Software version:16.0.13.301
-Affected Component: KVSrvXP.exe
+Experimental environment: win10 x64      
+Software official website:https://www.jiangmin.com/PC/207.html   
+Software version:16.0.13.301   
+Affected Component: KVSrvXP.exe   
   
 Jiangmin Technology Antivirus can be activated under ordinary users, but cannot open the trusted zone.    
 
